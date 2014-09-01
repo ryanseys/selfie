@@ -1,0 +1,13 @@
+.fa-camera {
+  font-size: 60px;
+  position:absolute;
+  left: 290px;
+  bottom: 10px;
+  color:white;
+  cursor: pointer;
+}
+
+.fa-camera:hover {
+  font-size: 80px;
+  left: 280px;
+}
